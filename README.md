@@ -25,3 +25,15 @@ It showcases my **About Me**, **Projects**, **Achievements**, **Contact info**, 
 ---
 
 ## 📂 Project Structure
+portfolio/
+├─ app/
+│ ├─ globals.css # Tailwind global styles
+│ ├─ layout.js # Root layout
+│ └─ page.js # Main portfolio page
+├─ public/
+│ ├─ profile.jpg # Profile picture
+│ └─ resume.pdf # Resume file
+├─ tailwind.config.js # Tailwind config
+├─ postcss.config.js # PostCSS config
+├─ package.json
+└─ README.md
